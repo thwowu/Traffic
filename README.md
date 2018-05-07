@@ -1,5 +1,6 @@
-Data cleaning & Processing [1](https://github.com/thwowu/Traffic/blob/master/processing.py)
-
+Data cleaning & Processing [1](https://github.com/thwowu/Traffic/blob/master/processing.py) & [2](https://github.com/thwowu/Traffic/blob/master/processing_II.py)
+Visualization code [1](https://github.com/thwowu/Traffic/blob/master/descriptive_I.py) & [2](https://github.com/thwowu/Traffic/blob/master/descriptive_II.py)
+Full Report: [read the pdf here](https://github.com/thwowu/Traffic/blob/master/Git.pdf)
 
 # Search Intelligence Executive Summary
 
