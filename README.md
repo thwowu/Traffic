@@ -1,3 +1,5 @@
+![](https://github.com/thwowu/Traffic/blob/master/output_13_0.png)
+
 Data cleaning & Processing [1](https://github.com/thwowu/Traffic/blob/master/processing.py) & [2](https://github.com/thwowu/Traffic/blob/master/processing_II.py)
 
 
